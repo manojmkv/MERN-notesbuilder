@@ -1,0 +1,16 @@
+{
+  "name": "notebuilder",
+  "version": "1.0.0",
+  "description": "create/save notes",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Manoj verma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
